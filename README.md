@@ -1,5 +1,8 @@
 # World Energy Consumption Visualized
 
+[Link to GitHub Pages](https://jravikumar97.github.io/dv-world-energy-consumption-main/)
+
+
 # Introduction
 
 The "World Energy Consumption Visualized" project aims to offer a comprehensive and interactive exploration of the intricate relationship between a nation's energy consumption patterns and its economic prosperity. By leveraging a diverse set of visualizations, this project sheds light on the global distribution of GDP, energy consumption trends, and the impact of various energy sources on economies worldwide.
