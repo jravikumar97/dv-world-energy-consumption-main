@@ -1,7 +1,5 @@
 # World Energy Consumption Visualized
 
-[Link to GitHub Pages](https://pradyothsp.github.io/dv-world-energy-consumption/)
-
 # Introduction
 
 The "World Energy Consumption Visualized" project aims to offer a comprehensive and interactive exploration of the intricate relationship between a nation's energy consumption patterns and its economic prosperity. By leveraging a diverse set of visualizations, this project sheds light on the global distribution of GDP, energy consumption trends, and the impact of various energy sources on economies worldwide.
@@ -69,7 +67,7 @@ To explore and run the "World Energy Consumption Visualized" project locally, fo
     - Run the following command:
 
         ```bash
-        git clone git@github.com:Pradyothsp/dv-world-energy-consumption.git
+        git clone git@github.com:jravikumar97/dv-world-energy-consumption.git
         ```
 
 2. **Navigate to the Project Directory:**
@@ -153,6 +151,6 @@ This license grants users the freedom to use, modify, and distribute the softwar
 
 The "World Energy Consumption Visualized" project has been made possible through the collaborative efforts of the following contributors:
 
-1. [Pradyoth S P](https://www.linkedin.com/in/pradyothsp/)
-2. [Jeevan Ravi Kumar](https://www.linkedin.com/in/jeevan-achar/)
+1. [Jeevan Ravi Kumar](https://www.linkedin.com/in/jeevan-ravikumar/)
+2. [Pradyoth S P](https://www.linkedin.com/in/pradyothsp/)
 3. [Thanay Geeshpathy Narayanamurthy](https://www.linkedin.com/in/gnm-thanay/)
